@@ -108,3 +108,5 @@ end
 '''
     archivo=carpeta/f'{dispositivo["nombre"]}.txt'
     archivo.write_text(configuracion,encoding="utf-8")
+
+#ELMER GEOVANNY ARANDA FIMBRES 11/11/2026
